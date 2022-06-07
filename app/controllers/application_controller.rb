@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
 	def hello
-		render html:"tata"
+		render html:"git1"
 	end
 
 	def goodbye
